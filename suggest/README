@@ -1,0 +1,8 @@
+compile :
+	gcc suggest.c
+run :
+	./a.out map.txt dict f1
+
+map.txt : mapping file.
+dict : dictionary file to suggest word from.
+f1 : input file which will contain a single word.
