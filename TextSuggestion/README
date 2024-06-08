@@ -1,0 +1,13 @@
+Using ngrams to suggest next possible words given previous words typed by the user. Implemented a Trie for suggesting these words which stores ngrams.
+
+Trying to comeup with a data structure to store this data in files such that searching in files for the relevant ngrams to suggest the user is faster.
+
+References:
+Wikipedia pages about tries.
+
+compile :
+		g++ -o main main.cpp trie.cpp
+run :
+		./main
+
+- give the input in terminal.

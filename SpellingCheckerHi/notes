@@ -1,0 +1,5 @@
+FUTURE MODIFICATIONS
+
+- insert the dictionary data in a vector of strings.
+- when comparing, extract each word as string and compare.
+- replace and check each char in the base form of input word with all the hindi cosonents. 

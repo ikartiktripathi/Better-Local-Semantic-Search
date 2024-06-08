@@ -1,0 +1,8 @@
+compile :
+	g++ SpellingCheck.cpp / g++ SpellingCheck1.cpp
+run :
+
+spellingCheck (only skip vowel algo):
+	./a.out dict inp
+spellingCheck1 (replace words rule is added):
+	./a.out map.txt dict inp
